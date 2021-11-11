@@ -28,3 +28,5 @@ In this challenge, we completed the analysis of what sorts of people were likely
 ## Dashboard 
 
 Tableau Link: https://public.tableau.com/app/profile/madhu.patil7998/viz/TitanicSurvivalDashbord/Dashboard1?publish=yes
+
+C:\Users\hp\Pictures\Screenshots
