@@ -24,3 +24,7 @@ In this challenge, we completed the analysis of what sorts of people were likely
  Logistic Regression
  
  KNN
+
+## Dashboard 
+
+Tableau Link: https://public.tableau.com/app/profile/madhu.patil7998/viz/TitanicSurvivalDashbord/Dashboard1?publish=yes
