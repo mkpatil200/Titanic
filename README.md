@@ -29,4 +29,4 @@ In this challenge, we completed the analysis of what sorts of people were likely
 
 Tableau Link: https://public.tableau.com/app/profile/madhu.patil7998/viz/TitanicSurvivalDashbord/Dashboard1?publish=yes
 
-C:\Users\hp\Pictures\Screenshots
+![Screenshot (1)](https://user-images.githubusercontent.com/85861395/141251530-ca4da2ee-9d44-422d-9722-862e2272b1ad.png)
